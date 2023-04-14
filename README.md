@@ -50,8 +50,9 @@ Before proceeding with installation make sure you have read the following things
 ## Make Chages
 
 - Logo, SideBar and NavigationBar directorys
-        **`pterodactyl\resources\scripts\components\NavigationBar.tsx`
-`pterodactyl\resources\scripts\components\NavigationBarServerRoute.tsx`**
+
+    **`pterodactyl\resources\scripts\components\NavigationBar.tsx`**
+    **`pterodactyl\resources\scripts\components\NavigationBarServerRoute.tsx`**
 
 - Auth Pages directory
 
