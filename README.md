@@ -1,9 +1,9 @@
 
-# WebPool Premium Theme
+# PteroX Premium Pterodactyl Theme
 
-Before proceeding with installation make sure you have read the following things:
+Before proceeding with installation make sure you have read the below details:
 
-- Installation script will update panel to the latest version.
+- Installation script will update your panel to the latest version.
 - All current changes will be removed.
 - Auto Backup Will be Made on /var/www/ directory
 
@@ -11,20 +11,21 @@ Before proceeding with installation make sure you have read the following things
 ## License
 
 - Join [Discord](https://discord.webpool.tech/) to get your license Key.
-- Key can only be used on one hardware only.
+- Key can only be used on one Installation Server only.
 
 
 
 ## Terms of service
 
 
-- Only one hardware can be used for theme
-- You can not share any files from the theme, this includes lines of code or files.
-- You can not use any code for your own theme or any other purpose.
+- One License Key Shall Be used on a Single Installation or on a single Server 
+- You can not share or resell the theme or any parts of the theme.
+- You can not use the code of the theme to recreate your own theme for commercial purpose.
 - Redistribute of this theme is not granted.
-- WebPool reserve the right to remove your access from this theme for violating any TOS, or without any reason.
-- No refund will be given.
-- By purchasing this theme, you accepts the terms of service.
+- WebPool Technologies reserve the right to remove your access from this theme if you are found violating the TOS .
+- Since The Theme Comes under Category of Digital Download . Hence its Non Refundable.
+- Paypal Chargebacks are not allowed as the theme is non refundable / Returnable
+- By purchasing this theme, you accept the terms of service.
 
 ## Installation
 
@@ -59,8 +60,10 @@ Before proceeding with installation make sure you have read the following things
     **`pterodactyl\resources\scripts\components\auth`**
 
 
-## Developer
-
-- Grims
-- RKP
+## PteroX A Theme made with Love By - 
+# Webpool Technologies 
+-----------------------------------------
+## Webpool Technlogies UI/UX Team - 
+# Grims 
+# RKP 
 
